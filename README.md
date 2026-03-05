@@ -1,4 +1,4 @@
-Meus Comandos Favoritos:
+# Meus Comandos Favoritos:
 
 Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `cd`: Usado para navegar entre pastas.
